@@ -64,3 +64,7 @@
    * Региональный Shard
 
 ---
+
+<img width="477" height="666" alt="image" src="https://github.com/user-attachments/assets/67972f33-7180-47f8-bf1d-cfed03770735" />
+
+---
